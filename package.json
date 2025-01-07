@@ -1,0 +1,22 @@
+{
+  "name": "backend-dev",
+  "version": "1.0.0",
+  "description": "Backend Development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Javascript",
+    "React",
+    "MOngo",
+    "DB",
+    "Express"
+  ],
+  "author": "Raushan Raj",
+  "license": "ISC",
+  "dependencies": {
+    "git": "^0.1.5",
+    "init": "^0.1.2"
+  }
+}
